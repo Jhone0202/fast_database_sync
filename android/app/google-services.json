@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657404748133",
+    "project_id": "fast-database-sync",
+    "storage_bucket": "fast-database-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657404748133:android:82c569bef2cdf05aa2818c",
+        "android_client_info": {
+          "package_name": "com.example.fast_database_sync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657404748133-0sb8onbdegqhmo7ji9j6h79rl1h5f7oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhFlFGQJgT3BJrC21x6Hn2rj5p7dcVDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657404748133-0sb8onbdegqhmo7ji9j6h79rl1h5f7oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
